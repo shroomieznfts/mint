@@ -1,6 +1,6 @@
 var account = null;
 var contract = null;
-const ADDRESS = "0x9051935e95852E571bEdc39e2D98a15e0E4510CA";
+const ADDRESS = "0x7512CAffF9aD821f81003D0912F2305FF0e90809";
 const ABI = [
   {
     inputs: [],
